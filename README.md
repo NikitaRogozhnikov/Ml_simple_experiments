@@ -1,2 +1,2 @@
-# DS_experiments
-My date science experiments 
+# ML_experiments
+My ML experiments 
